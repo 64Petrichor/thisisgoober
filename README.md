@@ -5,3 +5,5 @@ Trust me, he's not an alien.\
 he's jsut a little kooky.
 
 -64P
+
+PS: I actually don't know how css or js on this works yet, but "We get there when we get there".
